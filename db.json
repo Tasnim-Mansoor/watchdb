@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Luxury Travel Watch",
+      "description": "A watch designed for the avid traveler, featuring a world time display and dual time zones.",
+      "image": "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148515661.jpg",
+      "price": "Price 100$"
+    },
+    {
+      "id": 2,
+      "title": "Scholar’s Timepiece",
+      "description": "A classic timepiece perfect for scholars, with precision timing for exams and academic schedules.",
+      "image": "https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039301.jpg",
+      "price": "Price 200$"
+    },
+    {
+      "id": 3,
+      "title": "Multilingual Translation Watch",
+      "description": "A sophisticated watch with multi-language date display and world time, perfect for global communication.",
+      "image": "https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039316.jpg",
+      "price": "Price 300$"
+    },
+    {
+      "id": 4,
+      "title": "Executive Legal Chronograph",
+      "description": "Designed for legal professionals, this chronograph watch features a sleek, business-friendly design.",
+      "image": "https://img.freepik.com/free-vector/realistic-fitness-trackers_23-2148530529.jpg",
+      "price": "Price 500$"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  }
+}
